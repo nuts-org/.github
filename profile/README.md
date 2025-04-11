@@ -9,7 +9,7 @@ We're actively developing and maintaining the following tools:
 A lightweight and flexible plotting library designed specifically for NMR data in Python. Its main goal is to generate publication-quality NMR spectra with just a few lines of code. Check it out [here](https://github.com/nuts-org/spinplots)
 
 ### **SimPYson**
-A Pythonic interface for SIMPSON a popular code to simulate solid-state NMR experiments. Prepare SIMPSON input files, including spin system and pulse sequences, and analyze results in 1/2 lines of code. More information [here](https://github.com/nuts-org/spinplots)
+A Pythonic interface for [SIMPSON](https://inano.au.dk/about/research-centers-and-projects/nmr/software/simpson) a popular code to simulate solid-state NMR experiments. Prepare SIMPSON input files, including spin systems and pulse sequences, and analyze SIMPSON results in few lines of code. More information [here](https://github.com/nuts-org/simpyson)
 
-## Contributing
-Have ideas? Found bugs? Want to make this better? We'd love help from fellow NMR enthusiast. Whether you're into Python, pulse sequences, or plotting aesthetics — pull requests, issues, and discussions are always welcome.
+## Want to contribute?
+Have ideas? Found bugs? Want to make this better? We'd love help and suggestions from fellow NMR enthusiasts. Whether you're into Python, pulse sequences, or plotting aesthetics — pull requests, issues, and discussions are always welcome.
