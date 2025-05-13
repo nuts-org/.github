@@ -1,4 +1,4 @@
-# NUTS — NMR Utilities for Testing Solids
+# NUTS — NMR Unofficial ToolSet
 
 Welcome to NUTS — a slightly ridiculous name for a useful set of NMR tools. We're a small group of NMR lads working at the intersection of solid-state NMR and computational chemistry, and we've come together to build Python-based utilities to make working with NMR data a little less painful.
 
